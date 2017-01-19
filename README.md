@@ -1,6 +1,6 @@
 # Database Schema
 Rooms Table
-
+```
 rooms
 +-------+---------+------+-----+---------+----------------+
 | Field | Type    | Null | Key | Default | Extra          |
@@ -19,3 +19,4 @@ room_details
 | out_time | datetime   | YES  |     | NULL    |                |
 | status   | tinyint(1) | YES  |     | NULL    |                |
 +----------+------------+------+-----+---------+----------------+
+```
